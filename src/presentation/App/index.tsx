@@ -1,7 +1,7 @@
 import React from 'react';
 import Button from '@shiba/Button';
 import Loading from '@shiba/Loading';
-import Header from '../common/components/Header';
+import Header from '../../common/components/Header';
 
 const menuItems = [
     {

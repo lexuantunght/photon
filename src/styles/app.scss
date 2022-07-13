@@ -1,29 +1,8 @@
-@font-face {
-    font-family: 'Optimistic Display';
-    src: url('/src/common/resources/fonts/OptimisticDisplayLight.woff2') format('woff2');
-    font-weight: 300;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Optimistic Display';
-    src: url('/src/common/resources/fonts/OptimisticDisplayRegular.woff2') format('woff2');
-    font-weight: 500;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Optimistic Display';
-    src: url('/src/common/resources/fonts/OptimisticDisplayBold.woff2') format('woff2');
-    font-weight: 700;
-    font-style: normal;
-}
-
 * {
-    font-family: 'Optimistic Display', system-ui, -apple-system, sans-serif;
+    font-family: system-ui, -apple-system, sans-serif;
     font-size: 16px;
     line-height: 28px;
-    font-weight: 300;
+    font-weight: 400;
 }
 
 body {
